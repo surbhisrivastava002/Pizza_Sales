@@ -26,3 +26,7 @@ Word file which contain SQL code of some question asked by Customer's
 
 - <a href="https://raw.githubusercontent.com/surbhisrivastava002/Pizza_Sales/refs/heads/main/Screenshot%202025-09-30%20194039.png">DashBoard_ScreenShot</a>
 
+## Conclusion:
+This project combined SQL queries and Excel dashboarding to provide a comprehensive view of pizza sales performance. SQL queries helped extract and calculate key performance indicators such as total revenue, average order value, total pizzas sold, and category-wise contributions. Excel dashboards transformed these results into interactive visuals, showcasing daily and hourly trends, sales distribution by category and size, and identifying top and worst-selling pizzas.
+
+Together, SQL and Excel offered both detailed data analysis and clear visual insights, enabling better understanding of customer preferences, sales drivers, and operational efficiency. This approach highlights how data analysis and visualization can work hand-in-hand to support data-driven business decisions.
