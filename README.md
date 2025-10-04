@@ -21,6 +21,7 @@ This project focuses on analyzing pizza sales data to gain insights into custome
 Excel file which contain dashboard with some graph
 
 - <a href= "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fsurbhisrivastava002%2FPizza_Sales%2Frefs%2Fheads%2Fmain%2FPIZZA.docx&wdOrigin=BROWSELINK">SQL CODE</a>
+
 Word file which contain SQL code of some question asked by Customer's 
 
 
