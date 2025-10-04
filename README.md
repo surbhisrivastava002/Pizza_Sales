@@ -1,7 +1,7 @@
 # Pizza_Sales
 This project focuses on analyzing pizza sales data to gain insights into customer preferences, sales performance, and revenue trends. Using SQL queries and visualization tools, the project explores total sales, popular pizza categories, best-selling items, seasonal demand patterns, and contribution by size and type. The goal is to identify sales drivers, track performance metrics, and provide data-driven recommendations for business growth.
 
-# Question:
+## Question:
 1. Total Revenue
 2. Average Order Value
 3. Total Pizzas Sold
